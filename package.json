@@ -19,13 +19,6 @@
     "test:ci": "jest --coverage && codecov",
     "lint": "eslint src e2e"
   },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
-      "pre-commit": "yarn lint",
-      "pre-push": "yarn test"
-    }
-  },
   "files": [
     "dist"
   ],

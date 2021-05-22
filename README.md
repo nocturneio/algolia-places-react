@@ -10,11 +10,7 @@ Blazing fast address autocomplete React/preact component. :zap:
 
 ## Installation
 ```bash
-npm install algolia-places-react --save
-```
-or
-```bash
-yarn add algolia-places-react
+npm install --save git+https://github.com/nocturneio/algolia-places-react
 ```
 
 
