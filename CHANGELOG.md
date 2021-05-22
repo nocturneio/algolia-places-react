@@ -2,6 +2,52 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.8.0 (2021-05-22)
+
+
+### Features
+
+* add onLocate event ([89955b9](https://github.com/kontrollanten/algolia-places-react/commit/89955b94b4408182ea69fdeacaa4bdf74ff54d99))
+* add placesRef setter and test ([cf6a609](https://github.com/kontrollanten/algolia-places-react/commit/cf6a609b3756b552ba11c27a70b3934e489fa7df))
+* add support for aria-label ([8be3ca0](https://github.com/kontrollanten/algolia-places-react/commit/8be3ca0cdaf91d4148d3092e4f9e5b020432b428))
+* **algolia-places:** add support for arbitrary props ([c1db6d8](https://github.com/kontrollanten/algolia-places-react/commit/c1db6d826731fab7238473550af6c5809c7d0e01))
+* **algolia-places:** add support for onFocus and onBlur ([eca9aed](https://github.com/kontrollanten/algolia-places-react/commit/eca9aed3fa7a838b8aba3bca78fd6b4218605ee1))
+
+
+### Bug Fixes
+
+* **algoliaplaces:** templates proptypes ([0db7b84](https://github.com/kontrollanten/algolia-places-react/commit/0db7b8401b65f80c83e5fb9dfddb8def9a9dc5a7))
+* **AlgoliaPlaces:** add source maps ([18dbc03](https://github.com/kontrollanten/algolia-places-react/commit/18dbc03a78a062cef7d9afb282295688ff3a70cc))
+* **build:** fix a bug where package cant be found ([6f68e09](https://github.com/kontrollanten/algolia-places-react/commit/6f68e090dffebc2a08f62cb3def7e19bf1953b69)), closes [#93](https://github.com/kontrollanten/algolia-places-react/issues/93)
+* **deps:** update dependency places.js to v1.16.3 ([01aecf6](https://github.com/kontrollanten/algolia-places-react/commit/01aecf634a202eaa4af11ca38811e1af5f797957))
+* **deps:** update dependency places.js to v1.16.4 ([28f4f93](https://github.com/kontrollanten/algolia-places-react/commit/28f4f93a9a9ff41d733ae7df7af24113fdbf171a))
+* **deps:** update dependency places.js to v1.17.1 ([9d4fb7c](https://github.com/kontrollanten/algolia-places-react/commit/9d4fb7ce46380c9e429e21e57492e95872920be3))
+* **deps:** update dependency places.js to v1.19.0 ([65bc51a](https://github.com/kontrollanten/algolia-places-react/commit/65bc51a82e54ce2ba90cc614208e4ff98b7cc740))
+* fix server-side rendering ([4f592eb](https://github.com/kontrollanten/algolia-places-react/commit/4f592eb2c46d97c9d848bbe1fcf8e8822ba1e4a2))
+
+## 1.7.0 (2021-05-22)
+
+
+### Features
+
+* add onLocate event ([89955b9](https://github.com/kontrollanten/algolia-places-react/commit/89955b94b4408182ea69fdeacaa4bdf74ff54d99))
+* add placesRef setter and test ([cf6a609](https://github.com/kontrollanten/algolia-places-react/commit/cf6a609b3756b552ba11c27a70b3934e489fa7df))
+* add support for aria-label ([8be3ca0](https://github.com/kontrollanten/algolia-places-react/commit/8be3ca0cdaf91d4148d3092e4f9e5b020432b428))
+* **algolia-places:** add support for arbitrary props ([c1db6d8](https://github.com/kontrollanten/algolia-places-react/commit/c1db6d826731fab7238473550af6c5809c7d0e01))
+* **algolia-places:** add support for onFocus and onBlur ([eca9aed](https://github.com/kontrollanten/algolia-places-react/commit/eca9aed3fa7a838b8aba3bca78fd6b4218605ee1))
+
+
+### Bug Fixes
+
+* **algoliaplaces:** templates proptypes ([0db7b84](https://github.com/kontrollanten/algolia-places-react/commit/0db7b8401b65f80c83e5fb9dfddb8def9a9dc5a7))
+* **AlgoliaPlaces:** add source maps ([18dbc03](https://github.com/kontrollanten/algolia-places-react/commit/18dbc03a78a062cef7d9afb282295688ff3a70cc))
+* **build:** fix a bug where package cant be found ([6f68e09](https://github.com/kontrollanten/algolia-places-react/commit/6f68e090dffebc2a08f62cb3def7e19bf1953b69)), closes [#93](https://github.com/kontrollanten/algolia-places-react/issues/93)
+* **deps:** update dependency places.js to v1.16.3 ([01aecf6](https://github.com/kontrollanten/algolia-places-react/commit/01aecf634a202eaa4af11ca38811e1af5f797957))
+* **deps:** update dependency places.js to v1.16.4 ([28f4f93](https://github.com/kontrollanten/algolia-places-react/commit/28f4f93a9a9ff41d733ae7df7af24113fdbf171a))
+* **deps:** update dependency places.js to v1.17.1 ([9d4fb7c](https://github.com/kontrollanten/algolia-places-react/commit/9d4fb7ce46380c9e429e21e57492e95872920be3))
+* **deps:** update dependency places.js to v1.19.0 ([65bc51a](https://github.com/kontrollanten/algolia-places-react/commit/65bc51a82e54ce2ba90cc614208e4ff98b7cc740))
+* fix server-side rendering ([4f592eb](https://github.com/kontrollanten/algolia-places-react/commit/4f592eb2c46d97c9d848bbe1fcf8e8822ba1e4a2))
+
 ### [1.6.1](https://github.com/kontrollanten/algolia-places-react/compare/v1.6.0...v1.6.1) (2020-12-05)
 
 
