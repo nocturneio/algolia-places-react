@@ -133,6 +133,7 @@ export default class AlgoliaPlaces extends React.Component {
         <input
           type="text"
           aria-label={this.props.placeholder}
+          autoComplete="new-password"
           ref={(ref) => { this.autocompleteElem = ref; }}
           {...inputProps}
         />
