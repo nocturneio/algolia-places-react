@@ -10651,14 +10651,13 @@ var AlgoliaPlaces_AlgoliaPlaces = /*#__PURE__*/function (_React$Component) {
           inputProps = _objectWithoutProperties(_this$props, ["onChange", "onClear", "onCursorChanged", "onError", "onLocate", "onLimit", "onSuggestions", "options", "placesRef"]);
 
       return /*#__PURE__*/external_react_default.a.createElement("div", null, /*#__PURE__*/external_react_default.a.createElement("input", _extends({
-        type: "text",
+        type: "search",
+        autoComplete: "new-password",
         "aria-label": this.props.placeholder,
         ref: function ref(_ref3) {
           _this3.autocompleteElem = _ref3;
         }
-      }, inputProps, {
-        autoComplete: "new-password"
-      })));
+      }, inputProps)));
     }
   }]);
 

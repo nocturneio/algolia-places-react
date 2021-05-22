@@ -69,8 +69,8 @@ export default class App extends React.Component {
 
           <Flex mx={-2}>
             <Box width={1 / 3} px={2}>
-              <Heading fontSize={3} style={{ marginBottom: '10px' }}>UI</Heading>
-              {this.state.enabled && <Autocomplete onCallback={this.addFiredCallback} />}
+              <label style={{ marginBottom: '10px' }}>Adresse</label>
+              {this.state.enabled && <Autocomplete onCallback={this.addFiredCallback} autocomplete="new-password" />}
               <Markdown
                 source={`
 \`\`\`js
